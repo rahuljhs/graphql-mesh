@@ -1,0 +1,8 @@
+sources:
+  - name: petstore
+    handler:
+      openapi:
+        baseUrl: http://localhost:3002/
+        source: petstore.json
+serve:
+  port: 8080
