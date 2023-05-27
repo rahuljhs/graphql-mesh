@@ -1,0 +1,6 @@
+services:
+  graphql-mesh:
+    user: root
+    image: "rahuljhs/graphql-mesh:latest"
+    ports:
+      - "8080:8080"

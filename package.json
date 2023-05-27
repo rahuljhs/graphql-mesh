@@ -1,4 +1,10 @@
 {
+  "name": "graphql-mesh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rahul",
+  "license": "MIT",
+  "private": "true",
   "scripts": {
     "start": "mesh dev",
     "build": "echo \"noop\";"
